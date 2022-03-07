@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+### Reflection on Last Trimester
 
-You can use the [editor on GitHub](https://github.com/Gaurish-Gaur/gaurishgaur-tri3/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Night at the Museum: N@TM is a way for us last trimester to view what other visual arts/creative classes. For example, I really liked the art we saw. I especially like the drama tech we saw where we kind of got to see behind the curtian on how dramas actually works. Maybe I'll do that in the the future if my CS career doesn't work out.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+What can I do with Tech to improve mine or others education?: I will use tech to improve my education because I can use it to problem solve real problems I face in my life. For example, if I need to createa  program that is able to organize and createa  schedule in which to do my homework, I am no wable. Thus, I am also able to work on my problem solving and collaboration skills that will improve my education and real-life job skills that will be extremely important in my near future.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gaurish-Gaur/gaurishgaur-tri3/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
