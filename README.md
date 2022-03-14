@@ -2,7 +2,7 @@
 
 Gaurish Gaur Repository for APCSP Tri 3 :)
 =======
-[WEEK 0 REVIEW TICKET](https://github.com/aaditgupta21/koolskool/issues/3)
+[WEEK 0 REVIEW TICKET](https://github.com/Gaurish-Gaur/gaurishgaur-tri3/issues/8)
 
 Reflection on Last Trimester!
 
