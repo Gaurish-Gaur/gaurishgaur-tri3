@@ -1,3 +1,7 @@
+{% include base.html %}
+
+
+
 ###  Gaurish Gaur Repository for APCSP Tri 3 :)
 
 Reflection on Last Trimester
