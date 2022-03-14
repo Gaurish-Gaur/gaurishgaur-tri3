@@ -1,5 +1,6 @@
 # import needed procedures, with ["name", "name.py"]
 import submenus
+from procedures.tree import christmastree
 main_menu = [
     ["matrix", "procedures/matrix.py"],
     ["swap", "procedures/swap.py"],
