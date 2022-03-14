@@ -8,6 +8,7 @@ authors = ["Gaurish-Gaur <<>>"]
 python = "^3.8"
 mathpy = "^0.3.0"
 patterns = "^0.3"
+funcy = "^1.17"
 
 [tool.poetry.dev-dependencies]
 

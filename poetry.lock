@@ -7,6 +7,14 @@ optional = false
 python-versions = "*"
 
 [[package]]
+name = "funcy"
+version = "1.17"
+description = "A fancy and practical functional tools"
+category = "main"
+optional = false
+python-versions = "*"
+
+[[package]]
 name = "mathpy"
 version = "0.3.0"
 description = "A collection of mathematical and statistical functions for scientific computing with Excel support."
@@ -39,11 +47,15 @@ codegen = "*"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "7ce791f9aaa4b196e7331ebab90b743296839ca0eb6a9c71c184ed3e3c4dea6d"
+content-hash = "66a276cc5c28216a6d76c97ea57041fdec5bad2f28c77552c0fa55dad00ab961"
 
 [metadata.files]
 codegen = [
     {file = "codegen-1.0.tar.gz", hash = "sha256:d14caccc4175903d79bc5ed2890d140163281b1cdff79f3657e963369e79a6ee"},
+]
+funcy = [
+    {file = "funcy-1.17-py2.py3-none-any.whl", hash = "sha256:ba7af5e58bfc69321aaf860a1547f18d35e145706b95d1b3c966abc4f0b60309"},
+    {file = "funcy-1.17.tar.gz", hash = "sha256:40b9b9a88141ae6a174df1a95861f2b82f2fdc17669080788b73a3ed9370e968"},
 ]
 mathpy = [
     {file = "mathpy-0.3.0.tar.gz", hash = "sha256:74392777b69bd6fd36712067f18882560a9aee2494a4edabb52f0e54febeccee"},

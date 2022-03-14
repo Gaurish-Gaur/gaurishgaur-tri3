@@ -7,13 +7,13 @@ main_menu = [
 
 sub_menu = [
     ["tree", "procedures/tree.py"],
-    ["biker", "procedures/biker.py"],
+    ["ball", "procedures/ball.py"],
 ]
 
 
 # Menu banner is typically defined by menu owner
-border = "=" * 25
-banner = f"\n{border}\nPlease Select An Option\n{border}"
+border = "~" * 25
+banner = f"\n{border}\nPlease Select from Menu ☺\n{border}"
 
 # menu blueprint
 def menu():
