@@ -4,7 +4,7 @@
 Gaurish Gaur Repository for APCSP Tri 3 :)
 =======
 
-Reflection on Last Trimester! (will)
+Reflection on Last Trimester! (how does this even work?)
 
 Night at the Museum: N@TM is a way for us last trimester to view what other visual arts/creative classes. For example, I really liked the art we saw. I especially like the drama tech we saw where we kind of got to see behind the curtian on how dramas actually works. Maybe I'll do that in the the future if my CS career doesn't work out.
 
