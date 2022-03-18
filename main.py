@@ -1,10 +1,13 @@
 # import needed procedures, with ["name", "name.py"]
+from procedures.fibonacci import fibo
+from procedures.tree import *
 import submenus
 from procedures.tree import christmastree
 main_menu = [
     ["matrix", "procedures/matrix.py"],
     ["swap", "procedures/swap.py"],
-]
+  ["fibonacci", "procedures/fibonacci.py"],
+["lists", "procedures/lists.py"]]
 
 sub_menu = [
     ["tree", "procedures/tree.py"],
