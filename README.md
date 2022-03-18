@@ -1,5 +1,6 @@
-{% include base.html %}
-
+{
+% include base.html %}
+{% include replits.html %}
 Gaurish Gaur Repository for APCSP Tri 3 :)
 =======
 [WEEK 0 REVIEW TICKET](https://github.com/Gaurish-Gaur/gaurishgaur-tri3/issues/8)
