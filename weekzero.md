@@ -1,3 +1,4 @@
+{% include base2.html %}
 TPT 3/8/22 Notes (5.1 + 5.2):
   * Largest publically traded companies: Google, Microsoft, Amazon, Apple
   * Guy like Dang Vo, Compsci Undergrad --> Patent Law
