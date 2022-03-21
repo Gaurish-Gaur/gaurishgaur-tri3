@@ -1,8 +1,16 @@
 # import needed procedures, with ["name", "name.py"]
 from procedures.fibonacci import fibo
+from procedures.lists import print_data
+from procedures.lists import for_loop
+from procedures.lists import while_loop
+
+from procedures.lists import recursive_loop
+
+
 from procedures.tree import *
 import submenus
 from procedures.tree import christmastree
+
 main_menu = [
     ["matrix", "procedures/matrix.py"],
     ["swap", "procedures/swap.py"],
