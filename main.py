@@ -9,7 +9,7 @@ from procedures.lists import recursive_loop
 
 from procedures.tree import *
 import submenus
-from procedures.tree import christmastree
+from procedures import tree 
 
 main_menu = [
     ["matrix", "procedures/matrix.py"],
@@ -18,7 +18,7 @@ main_menu = [
 ["lists", "procedures/lists.py"]]
 
 sub_menu = [
-    ["tree", "procedures/tree.py"],
+    ["tree", tree.christmastree],
     ["ball", "procedures/ball.py"],
 ]
 
