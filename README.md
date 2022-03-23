@@ -7,9 +7,9 @@ Gaurish Gaur Repository for APCSP Tri 3 :)
    <tr>
     <th>Week</th>
     <th>Stand Up Theme</th>
-    <th>Test Prep</th>
-    <th>Tech Talk</th>
-    <th>Canvas</th>
+    <th>My Notes</th>
+    <th>My Code</th>
+    <th>My Ticket</th>
    </tr>
 
    <tr>
@@ -83,16 +83,16 @@ Gaurish Gaur Repository for APCSP Tri 3 :)
   <tr>
     <td>2</td>
     <td>Databases, Policies</td>
-    <td><a href="https://apclassroom.collegeboard.org/103/home?unit=2">2.3,2.4</a></td>
-    <td><a href="https://github.com/nighthawkcoders/nighthawk_csp/wiki/Tri-2:-TT2-SQLite-Database-Intro">TT2</a></td>
-    <td><a href="https://poway.instructure.com/courses/112435/assignments/1943619">Home Pages</a></td>
+    <td><a href="https://gaurish-gaur.github.io/gaurishgaur-tri3/weektwo">2.3,2.4</a></td>
+    <td><a href="https://gaurish-gaur.github.io/gaurishgaur-tri3/replit">Databases, Policies Deployement</a></td>
+    <td><a href="https://poway.instructure.com/courses/112435/assignments/1943619">Wk 2 ticket GG (need to update).</a></td>
   </tr>
   <tr>
     <td>1</td>
     <td>SCSS, Async</td>
-    <td><a href="https://apclassroom.collegeboard.org/103/home?unit=1">1.3,1.4</a></td>
-    <td><a href="https://github.com/nighthawkcoders/nighthawk_csp/wiki/Tri-2:-TT1.1---Organizing--Bootstrap-Files,-Templates-layouts,-and-Sassy">TT1.1, </a><a href="https://github.com/nighthawkcoders/nighthawk_csp/wiki/Tri-2:-TT1.2---Accessing-data-Asynchronously">TT1.2</a></td>
-    <td><a href="https://poway.instructure.com/courses/112435/assignments/1943423">Project Approval</a></td>
+    <td><a href="https://gaurish-gaur.github.io/gaurishgaur-tri3/weekone">1.3,1.4</a></td>
+    <td><a href="https://gaurish-gaur.github.io/gaurishgaur-tri3/replit">SCDD, Async Deployement </a></td>
+    <td><a href="https://github.com/Gaurish-Gaur/gaurishgaur-tri3/issues/15">Wk 1 ticket GG</a></td>
   </tr>
 </table>
 
