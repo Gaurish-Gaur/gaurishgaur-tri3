@@ -85,7 +85,7 @@ Gaurish Gaur Repository for APCSP Tri 3 :)
     <td>Databases, Policies</td>
     <td><a href="https://gaurish-gaur.github.io/gaurishgaur-tri3/wknotes/weektwo">2.3,2.4</a></td>
     <td><a href="https://gaurish-gaur.github.io/gaurishgaur-tri3/pages/replit">Databases, Policies Deployement</a></td>
-    <td><a href="https://poway.instructure.com/courses/112435/assignments/1943619">Wk 2 ticket GG (need to update).</a></td>
+    <td><a href="https://github.com/Gaurish-Gaur/gaurishgaur-tri3/issues/23">Wk 2 ticket GG.</a></td>
   </tr>
   <tr>
     <td>1</td>
