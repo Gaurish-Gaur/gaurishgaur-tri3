@@ -96,8 +96,7 @@ Gaurish Gaur Repository for APCSP Tri 3 :)
   </tr>
 </table>
 
-[WEEK 0 REVIEW TICKET](https://github.com/Gaurish-Gaur/gaurishgaur-tri3/issues/8) <br>
-[WEEK 1 REVIEW TICKET](https://github.com/Gaurish-Gaur/gaurishgaur-tri3/issues/15)
+[WEEK 0 REVIEW TICKET](https://github.com/Gaurish-Gaur/gaurishgaur-tri3/issues/8) <br
 
 Reflection on Last Trimester!
 

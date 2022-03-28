@@ -1,25 +1,27 @@
 # import needed procedures, with ["name", "name.py"]
-from procedures.fibonacci import fibo
-from procedures.lists import print_data
-from procedures.lists import for_loop
-from procedures.lists import while_loop
+from procedures.wk1.fibonacci import fibo
+from procedures.wk1.lists import print_data
+from procedures.wk1.lists import for_loop, while_loop, recursive_loop
 
-from procedures.lists import recursive_loop
-
-
-from procedures.tree import *
+from procedures.wk0.tree import *
 import submenus
-from procedures import tree 
+from procedures.wk0.tree import christmastree 
+from procedures.wk2.lcm import *
 
 main_menu = [
-    ["matrix", "procedures/matrix.py"],
-    ["swap", "procedures/swap.py"],
-  ["fibonacci", "procedures/fibonacci.py"],
-["lists", "procedures/lists.py"]]
+["Lists", "procedures/wk1/lists.py"]]
 
-sub_menu = [
-    ["tree", tree.christmastree],
-    ["ball", "procedures/ball.py"],
+pat_sub_menu = [
+    ["Tree", "procedures/wk0/tree.py"],
+    ["Ball", "procedures/wk0/ball.py"],
+]
+math_sub_menu = [
+    ["Matrix", "procedures/wk0/matrix.py"],
+    ["Swap", "procedures/wk0/swap.py"],
+    ["Fibonacci", "procedures/wk1/fibonacci.py"],
+    ["Factorial", "procedures/wk2/factorial.py"],
+    ["Lcm", "procedures/wk2/lcm.py"],
+    ["Palindrome", "procedures/wk2/palin.py"]
 ]
 
 
@@ -31,18 +33,29 @@ banner = f"\n{border}\nPlease Select from Menu ☺\n{border}"
 def menu():
     title = "Function Menu" + banner
     menu_list = main_menu.copy()
-    menu_list.append(["Patterns", submenu])
+    menu_list.append(["Patterns", pat_submenu])
+    menu_list.append(["Math", math_submenu])
     buildMenu(title, menu_list)
 
-def submenuc():
+def pat_submenuc():
   title = "Class Submenu" + banner
-  m = submenus.Menu(title, sub_menu)
+  m = submenus.Menu(title, pat_sub_menu)
   m.menu()
 
-def submenu():
+def pat_submenu():
     title = "Function Submenu" + banner
-    buildMenu(title, sub_menu)
+    buildMenu(title, pat_sub_menu)
 
+def math_submenuc():
+    title = "submenu" + banner
+    m = submenus.Menu(title, math_sub_menu)
+    m.menu()
+
+
+def math_submenu():
+    title = "submenu" + banner
+    buildMenu(title, math_sub_menu)
+  
 # builds console menu
 def buildMenu(banner, options):
     print(banner)
