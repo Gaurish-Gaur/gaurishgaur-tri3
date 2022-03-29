@@ -7,6 +7,16 @@ from procedures.wk0.tree import *
 import submenus
 from procedures.wk0.tree import christmastree 
 from procedures.wk2.lcm import *
+from time import sleep
+import sys
+
+welcome = "Welcome to Gaur's Menu"
+
+def hi():
+  for x in welcome:
+    print(x, end='')
+    sys.stdout.flush()
+    sleep(0.1)
 
 main_menu = [
 ["Lists", "procedures/wk1/lists.py"]]
@@ -31,7 +41,7 @@ banner = f"\n{border}\nPlease Select from Menu ☺\n{border}"
 
 # menu blueprint
 def menu():
-    title = "Function Menu" + banner
+    title = ":)" + banner
     menu_list = main_menu.copy()
     menu_list.append(["Patterns", pat_submenu])
     menu_list.append(["Math", math_submenu])
@@ -98,4 +108,5 @@ def buildMenu(banner, options):
 
 
 if __name__ == "__main__":
+    hi()
     menu()
