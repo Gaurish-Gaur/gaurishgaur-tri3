@@ -1,37 +1,28 @@
-from random import randint
-
-#create a list of play options
-t = ["Rock", "Paper", "Scissors"]
-
-#assign a random play to the computer
-computer = t[randint(0,2)]
-
-#set player to False
-player = False
-
+import random
 def play():
-  while player == False:
-  #set player to True
-      player = input("Rock, Paper, Scissors?")
-      if player == computer:
-          print("Tie!")
-      elif player == "Rock":
-          if computer == "Paper":
-              print("You lose!", computer, "covers", player)
-          else:
-              print("You win!", player, "smashes", computer)
-      elif player == "Paper":
-          if computer == "Scissors":
-              print("You lose!", computer, "cut", player)
-          else:
-              print("You win!", player, "covers", computer)
-      elif player == "Scissors":
-          if computer == "Rock":
-              print("You lose...", computer, "smashes", player)
-          else:
-              print("You win!", player, "cut", computer)
-      else:
-          print("That's not a valid play. Check your spelling!")
-      #player was set to True, but we want it to be False so the loop continues
-      player = False
-      computer = t[randint(0,2)]
+  pick = ["Rock", "Paper", "Scissors"]
+
+  enemy = random.choice(pick)
+  you = False
+
+  while you == False:
+    you = input("What do you pick? Rock, Paper, or Scissors?")
+    if you == enemy:
+        print("You tied the enemy")
+    elif you == "Rock":
+        if enemy == "Paper":
+            print("The enemies", enemy, "beat your", you, "! You lose!")
+        else:
+            print("Your", you, "beat the enemies", enemy, "! You win!")
+    elif you == "Paper":
+        if enemy == "Scissors":
+            print("The enemies", enemy, "beat", you, "! You lose!")
+        else:
+            print("Your", you, "beat the enemies", enemy, "! You win!")
+    elif you == "Scissors":
+        if enemy == "Rock":
+            print("The enemies", enemy, "beat", you, " ! You lose!")
+        else:
+            print("Your", you, "beat the enemies", enemy, "! You win!")
+    else:
+        print("Nope! This is case sensitive!")
