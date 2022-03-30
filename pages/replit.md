@@ -1,10 +1,9 @@
 {% include replits.html %}
 
-# Week 1
+# Week 0 - Animations
 
-# Lists and Loops
-
-## Code snippets
+### Code for Bal A
+# Week 1 - Lists and Loops
 
 ### Code for Lists
 
