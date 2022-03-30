@@ -1,14 +1,15 @@
 # import needed procedures, with ["name", "name.py"]
-from procedures.wk1.fibonacci import fibo
-from procedures.wk1.lists import print_data
-from procedures.wk1.lists import for_loop, while_loop, recursive_loop
-
-from procedures.wk0.tree import *
-import submenus
-from procedures.wk0.tree import christmastree 
-from procedures.wk2.lcm import *
+import procedures.wk0.ball
+import procedures.wk0.tree
+import procedures.wk1.lists
+import procedures.wk0.matrix
+import procedures.wk0.swap
+import procedures.wk1.fibonacci
 import procedures.wk3.face
 import procedures.wk3.rps
+import procedures.wk2.factorial
+import procedures.wk2.lcm
+import procedures.wk2.palin
 
 from time import sleep
 import sys
@@ -22,21 +23,21 @@ def hi():
     sleep(0.1)
 
 main_menu = [
-["Lists", "procedures/wk1/lists.py"]]
+["Lists", procedures.wk1.lists.tester]]
 
 pat_sub_menu = [
-    ["Tree", "procedures/wk0/tree.py"],
-    ["Ball", "procedures/wk0/ball.py"],
+    ["Tree", procedures.wk0.tree.main],
+    ["Ball", procedures.wk0.ball.main],
     ["Face", procedures.wk3.face.main],
     ["Rock Paper Scissors", procedures.wk3.rps.play],
 ]
 math_sub_menu = [
-    ["Matrix", "procedures/wk0/matrix.py"],
-    ["Swap", "procedures/wk0/swap.py"],
-    ["Fibonacci", "procedures/wk1/fibonacci.py"],
-    ["Factorial", "procedures/wk2/factorial.py"],
-    ["Lcm", "procedures/wk2/lcm.py"],
-    ["Palindrome", "procedures/wk2/palin.py"]
+    ["Matrix", procedures.wk0.matrix.main],
+    ["Swap", procedures.wk0.swap.main],
+    ["Fibonacci", procedures.wk1.fibonacci.tester],
+    ["Factorial", procedures.wk2.factorial.main],
+    ["Lcm", procedures.wk2.lcm.tester],
+    ["Palindrome", procedures.wk2.palin.main]
 ]
 
 

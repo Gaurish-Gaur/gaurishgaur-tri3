@@ -18,5 +18,5 @@ def christmastree():
     tmain(row)
     bottom(row)
 
-if __name__ == "__main__":
-    christmastree()
+def main():
+  christmastree()

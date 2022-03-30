@@ -17,6 +17,3 @@ def tester():
         print("The fibonacci Terms of", n, "is", fibo(n), "!")
 #formats answers given in a clear to read wway with input and output
 
-if __name__ == "__main__":
-   # stuff only to run when not called via 'import' here
-   tester()

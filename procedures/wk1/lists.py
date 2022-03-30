@@ -73,6 +73,4 @@ def tester():
     while_loop(0)  # requires initial index to start while
     print("Recursive loop")
     recursive_loop(0)  # requires initial index to start recursion
-if __name__ == "__main__":
-   # stuff only to run when not called via 'import' here
-   tester()
+

@@ -40,5 +40,3 @@ def tester():
 	except:
 		print("Sorry, try again!")
     
-if __name__ == "__main__":
-    tester()
