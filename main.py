@@ -7,6 +7,8 @@ from procedures.wk0.tree import *
 import submenus
 from procedures.wk0.tree import christmastree 
 from procedures.wk2.lcm import *
+import procedures.wk3.face
+
 from time import sleep
 import sys
 
@@ -24,6 +26,7 @@ main_menu = [
 pat_sub_menu = [
     ["Tree", "procedures/wk0/tree.py"],
     ["Ball", "procedures/wk0/ball.py"],
+    ["Face", procedures.wk3.face.main],
 ]
 math_sub_menu = [
     ["Matrix", "procedures/wk0/matrix.py"],
