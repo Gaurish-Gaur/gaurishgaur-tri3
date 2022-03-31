@@ -1,3 +1,6 @@
+{% include base.html %}
+
+# Review Tickets
 <table>
    <tr>
     <th>Week</th>
