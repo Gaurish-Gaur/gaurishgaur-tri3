@@ -9,7 +9,7 @@
 
    <tr>
     <td>0</td>
-    <td><a href="https://github.com/Gaurish-Gaur/gaurishgaur-tri3/issues/8">Wk 0 ticket</td>
+      <td><a href="https://github.com/Gaurish-Gaur/gaurishgaur-tri3/issues/8">Wk 0 ticket</a></td>
    </tr>
    
    <tr>
