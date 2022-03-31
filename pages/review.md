@@ -14,11 +14,11 @@
    
    <tr>
     <td>1</td>
-    <td><a href="https://github.com/Gaurish-Gaur/gaurishgaur-tri3/issues/15">Wk 1 ticket</td>
+    <td><a href="https://github.com/Gaurish-Gaur/gaurishgaur-tri3/issues/15">Wk 1 ticket</a></td>
    </tr>
    
    <tr>
     <td>2</td>
-    <td><a href="https://github.com/Gaurish-Gaur/gaurishgaur-tri3/issues/23">Wk 2 ticket</td>
+    <td><a href="https://github.com/Gaurish-Gaur/gaurishgaur-tri3/issues/23">Wk 2 ticket</a></td>
    </tr>
 </table>
