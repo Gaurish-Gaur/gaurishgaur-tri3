@@ -26,7 +26,6 @@ Gaurish Gaur Repository for APCSP Tri 3 :)
 </table>
 
 
-
 # Time Box Tri 2
 <table>
    <tr>
