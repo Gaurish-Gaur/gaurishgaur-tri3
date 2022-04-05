@@ -78,7 +78,8 @@ Gaurish Gaur Repository for APCSP Tri 3 :)
     <td>Certbot, CB-exam</td>
     <td><a href="https://apclassroom.collegeboard.org/103/assignments?quizId=4323650&status=assigned">MCQ Test</a></td>
     <td><a href="https://github.com/nighthawkcoders/nighthawk_csp/wiki/Tri-2:-TT3---Deployment---Subdomains-and-Certbot">TT3</a></td>
-    <td><a href="https://www.kapwing.com/videos/624bda4b96a64100c1ef4f15">WK 3 VIDEO</a></td>
+    <td><a href="https://www.kapwing.com/videos/624bda4b96a64100c1ef4f15">WK 3 VIDEO</a>
+    <a href="https://github.com/Gaurish-Gaur/gaurishgaur-tri3/issues/26">WK 3 REVIEW TICKET</a> </td>
   </tr>
   <tr>
     <td>2</td>
