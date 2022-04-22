@@ -1,4 +1,13 @@
 {% include base.html %}
+
+<h3>Individual/Pair Evaluation on Create Task Project- Gaurish :)</h3>
+
+- [x] [Wiki](https://github.com/Athena9355/Fire-Alarm/wiki/Week-9---Create-Task-Check-(Gaurish-and-Athena))/Jekyll page with design ideas and usage
+- [x] Create Performance Task PBL feature
+- [x] Final committed [program code](https://github.com/Athena9355/Fire-Alarm/blob/main/templates/pong.html) showing algorithms written in JS/Python
+- [x] [Written responses](https://github.com/Athena9355/Fire-Alarm/wiki/Week-9---Create-Task-Check-(Gaurish-and-Athena)#written-response) to all the prompts in the performance task
+- [x] [1 min video that meets CB create task requirements](https://www.youtube.com/watch?v=AKlEZud3_0Y&feature=youtu.be)
+
 ### Overview of the CB  "Create Performance Task"
 * Students (us) will design and implement a program that has a goal to solve a problem, enable innovation, or express creativity.
 * Our submission will include the elements listed below.
@@ -7,6 +16,8 @@
 > * written response
 * We will be working in teams of two: Athena and Gaurish. We will work together on the program. 
 
+
+- [x] 
 ### General Requirements of Create Task
 * Code Requirements
 > * submitted in PDF file
