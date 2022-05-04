@@ -45,3 +45,26 @@
 * Q45
 >> The teacher wants to determine whether students who play a sport are more or less likely to have higher grade point averages than students who do not play any sports. Which of the following pairs of spreadsheets can be combined and analyzed to determine the desired information? Spreadsheets I and IV is incorrect since that is only those with more than one sport, but we would need at least one sport. not just more than just one sport, since that would not include people who play one sport, so need spreadsheet 1 and II.
 
+## Test #3
+* Q4
+* >> I forgot to answer the question. The correct answer, is of course, The computers can communicate directly because Internet communication uses standard protocols. This is ow two computers can communicate. They can do so because the standard protocols is what they use to uniform the process.
+
+
+* Q6
+* >> I selected the first correct answer. However, I did not also selected D. This is also correct. This algorithm displays the numbers 1, 2, 4, 5, 7, 8, 10, 11, 13, 14, 16, 17, 19, and 20. After 20 is displayed, x is incremented to 21. The value 21 is not displayed since it is a multiple of 3 and the algorithm terminates.
+
+
+* Q18
+* >> The procedure traverses this list and never encounters a positive value. The procedure then returns false as intended. Therefore,
+
+* Q26
+* >> Yes, the correct answer is onee that guides the robot appropraitely. Or in other words, the robot starts along the side of a black region. Step 1 moves the robot just past the end of the black region. Step 2 rotates the robot to the right and moves it forward, placing the robot along the next side of the black region. Step 3 will repeat steps 1 and 2 to move the robot around the other 3 sides to complete a circuit around the black region. I had no answer, previously
+
+* Q34
+* >> Heuerestic is not applicable here because it is in a lingear order and procedure and matters. This is also very applciable tot he materials of CSP. As this algorithm has a factorial efficiency, it does not run in a reasonable amount of time. A heuristic approach can be used to find an approximate solution than can run in a reasonable amount of time.
+
+* Q40
+* >> I did not answer this. The correct answer should be between line  and line 10. Inserting Win, left arrow, true between line 9 and line 10 will cause the loop to terminate when the guess is correct.
+
+* Q50 Values assigned to first and second 
+* >> MY answer is incorrect. The variable first is initially assigned the value 100, and then later assigned the value of second, which at that point in the code segment is also 100. The variable first is initially assigned the value 100 and the variable second is initially assigned the value 200. Next, temp is assigned the value of first, which is 100. Next, second is assigned the value of temp, which is 100. Last, first is assigned the value of second, which is 100. After execution, both first and second have the value 100.

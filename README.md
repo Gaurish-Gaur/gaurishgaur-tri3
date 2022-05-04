@@ -76,6 +76,8 @@ Gaurish Gaur Repository for APCSP Tri 3 :)
     <td>MCQ Most Missed Session B</td>
     <td>Proctored MCQs and Create Task</td>
     <td>Proctored MCQs - Quiz3,Quiz4 Scores</td>
+    <td><a href="https://github.com/Gaurish-Gaur/gaurishgaur-tri3/issues/35">Week 6</a></td>
+
    </tr>
    
    <tr>

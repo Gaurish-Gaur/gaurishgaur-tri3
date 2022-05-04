@@ -1,5 +1,8 @@
 {% include base.html %}
 
+# SEE REVIEW TICKET FOR FINAL CREATE TASK:
+https://github.com/Gaurish-Gaur/gaurishgaur-tri3/issues/36
+
 <h3>Individual/Pair Evaluation on Create Task Project- Gaurish :)</h3>
 
 - [x] [Wiki](https://github.com/Athena9355/Fire-Alarm/wiki/Week-9---Create-Task-Check-(Gaurish-and-Athena))/Jekyll page with design ideas and usage
