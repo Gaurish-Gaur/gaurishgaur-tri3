@@ -67,6 +67,7 @@ Gaurish Gaur Repository for APCSP Tri 3 :)
     <td>Create Task Due May 2nd</td>
     <td>Proctored MCQs</td>
     <td>Proctored MCQ - Quiz5 Score</td>
+     <td><a href="https://github.com/Gaurish-Gaur/gaurishgaur-tri3/issues/38">Week 7</a></td>
    </tr>
    
    <tr>
