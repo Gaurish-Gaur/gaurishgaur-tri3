@@ -1,5 +1,35 @@
 {% include base.html %}
 
+## Finals-Week3-Quiz5 
+SCORE 42/50 :)
+* Q3
+* >> My answer was incorrect because the question is asking about NOT not what will do so. So I should ahve chosen the opposite answers of B, D not A, C. I need to be careful when reading the question because I chose the sets for which the code would work.
+
+
+* Q4
+* >> I chose the option of B correctly in that dividing a whole number by 2 could rep as a binary. However, I needed to selected TWO answers. Therefore, I should have also selefected that I could be rep the value of a boolean variable.
+
+
+* Q15
+* >>  My answer is incorrect because I said that the two programs would display the same values but in different orders. However, this is not true. Even in the first itteration, even though Program A displays 1, Programs B displays 2. So they really just display the same # of vaues, but the values themselves are inherintly different.
+
+* Q17
+* >> I did not answer this question. The real answer is D. This is because Version 2 calls about twice as many elemnts in the list in order to comapre two of them at a time. So it takes about twice as much time so 4 mor minutes. Furthermore, the act is called upon one more time, at least, which makes it take an additional5 minutes.
+
+* Q18
+* >> I am wrong because public key encryption is not used for both encryption and decryption. A public key is used for encryption and a private key for decryption. Symmetric envryption is a method that uses a single key for both decryption and encryption. Public key encryption is a secure way in order to make sure encoding data is omewhat safe on internet.
+
+* Q21
+* >> 64 bit would have 32 more binary options than 32 bit. This means for each of those chracters there are twice as many options possible. So s^32 options can be rep. 
+
+* Q31
+* >> There is really an increment of one for each time for each turn. So that means after for turns it would be a total of 4 points. I must've miscounted it to be 3 points.
+
+* Q43
+* >> The internet does not use propeteiry communications protocls because it actually uses standard protocls that are standard. Furthermore, it is better to say and more true that the internet is quite made to be scaleable as globla tech usage increases.
+  
+  
+  
 ### Test #1
 * Q1
 * >> Questions says LEAST likely. Misread question. Should consider that Tech to store data sets change as size change, so larger data sets by nature need more storage and more storage space. Instead the program is not really affected by the # of programming statements. Techniques to store data sets change as the size of data sets increase. Larger data sets by their nature require more storage space.
@@ -68,3 +98,4 @@
 
 * Q50 Values assigned to first and second 
 * >> MY answer is incorrect. The variable first is initially assigned the value 100, and then later assigned the value of second, which at that point in the code segment is also 100. The variable first is initially assigned the value 100 and the variable second is initially assigned the value 200. Next, temp is assigned the value of first, which is 100. Next, second is assigned the value of temp, which is 100. Last, first is assigned the value of second, which is 100. After execution, both first and second have the value 100.
+
